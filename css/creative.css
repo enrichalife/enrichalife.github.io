@@ -433,3 +433,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+#contact
+{
+    background-color: rgb(160,160,160);
+}

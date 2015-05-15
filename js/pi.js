@@ -27,14 +27,14 @@ $(function () {
             },
             series: [{
                 type: 'pie',
-                name: 'Exp Category',
+                name: 'Expense',
                 data: [
-                    ['Donation',   61],
+                    ['Donation',  58],
      ['Tution Fees',    17],
                     
-                    ['Uniform',    11],
-                    ['Books',     4],
-                    ['Travel',   7],
+                    ['Uniform',    12],
+                    ['Books',     8],
+                    ['Travel',   5],
      
                 ]
             }]
